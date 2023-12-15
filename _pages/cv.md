@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Apllied Mathmetics (Statistics), South China University of Technology, 2018
+* B.S. in Applied Mathematics (Statistics), South China University of Technology, 2018
 * M.S. in Quantitative Economics, South China University of Technology, 2021
 * Ph.D in Information System, Chinese University of Hong Kong, 2025 (expected)
 
 Work experience
 ======
 * Tencent : Research Intern
-  * 2022.09--now
+  * Period: 2022.09--now
+  * Job: Data Scientist
   
 Skills
 ======
